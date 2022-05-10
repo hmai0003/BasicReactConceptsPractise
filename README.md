@@ -9,8 +9,8 @@ Initial State
 ![Alt text](src/Assets/InitialState.png?raw=true "Initial State")
 
 Users Added
-![Alt text](src/assets/Users%20Added.JPG?raw=true "Users Added")
+![Alt text](src/Assets/Users%20Added.JPG?raw=true "Users Added")
 
 Error States
-![Alt text](src/assets/Error%20State.JPG?raw=true "Error State")
-![Alt text](src/assets/Error%20State%202.JPG?raw=true "Error State 2")
+![Alt text](src/Assets/Error%20State.JPG?raw=true "Error State")
+![Alt text](src/Assets/Error%20State%202.JPG?raw=true "Error State 2")
