@@ -6,4 +6,11 @@ A simple React App that lets you create a user by entering a name and age and th
 
 ### Screenshots
 Initial State
-![Alt text](src/Assets/InitialState.JPG?raw=true "Initial State")
+![Alt text](src/Assets/InitialState.png?raw=true "Initial State")
+
+Users Added
+![Alt text](src/assets/Users%20Added.JPG?raw=true "Users Added")
+
+Error States
+![Alt text](src/assets/Error%20State.JPG?raw=true "Error State")
+![Alt text](src/assets/Error%20State%202.JPG?raw=true "Error State 2")
